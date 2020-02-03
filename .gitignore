@@ -19,4 +19,4 @@ doc/*.txt
 doc/**/*.pdf
 
 
-./project-study
+project-study/*.*
