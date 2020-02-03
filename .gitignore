@@ -18,5 +18,5 @@ doc/*.txt
 # ignore all .pdf files in the doc/ directory
 doc/**/*.pdf
 
-
+project-study/
 project-study/*.*
